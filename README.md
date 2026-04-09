@@ -14,4 +14,4 @@
 
 * **Overview:** A framework that mitigates hallucinations in Retrieval-Augmented Generation (RAG) by training models to selectively abstain from answering when retrieved documents lack supporting evidence.
 
-[💻 View Repository](https://github.com/Jungwonpark1027/<repository-name>)
+[💻 View Repository](https://github.com/Jungwonpark1027/Selective_Answering_RAG)
