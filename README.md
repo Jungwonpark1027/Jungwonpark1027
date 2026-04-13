@@ -9,7 +9,7 @@
 
 <br>
 
-**[Selective RAG: Training RAG via Evidence-Aware Selective Answering](https://github.com/Jungwonpark1027/<repository-name>)**
+**[Selective RAG: Training RAG via Evidence-Aware Selective Answering](https://github.com/Jungwonpark1027/Selective_Answering_RAG)**
 *To be submitted to KCC 2026 | ETRI Winter Research Internship (Jan 2026 - Mar 2026)*
 
 * **Overview:** A framework that mitigates hallucinations in Retrieval-Augmented Generation (RAG) by training models to selectively abstain from answering when retrieved documents lack supporting evidence.
